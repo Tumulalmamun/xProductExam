@@ -1,0 +1,7 @@
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\bin\xProductServices.dll.config
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\bin\xProductServices.dll
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\bin\xProductServices.pdb
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\obj\Debug\xProductServices.csprojAssemblyReference.cache
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\obj\Debug\xProductServices.csproj.CoreCompileInputs.cache
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\obj\Debug\xProductServices.dll
+C:\Users\rikhan0706\source\repos\xProductServices\xProductServices\obj\Debug\xProductServices.pdb
