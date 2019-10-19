@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:54033/XProductService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/ResearchWebstack.Server" />
+  <xs:element name="GetAllTests">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllTestsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ResearchWebstack.Server" minOccurs="0" name="GetAllTestsResult" nillable="true" type="q1:ArrayOfUnitTest" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetFailTests">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetFailTestsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/ResearchWebstack.Server" minOccurs="0" name="GetFailTestsResult" nillable="true" type="q2:ArrayOfUnitTest" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
